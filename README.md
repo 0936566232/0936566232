@@ -25,9 +25,13 @@
 ![Phpstorm](https://img.shields.io/badge/-Phpstorm-333?style=for-the-badge&logo=Phpstorm&logoColor=red)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333?style=for-the-badge&logo=Webstorm&logoColor=red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikus11&layout=compact&theme=dark)
+### Most used languages:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artikus11&show_owner=false&show_icons=true&theme=dark&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artikus11&langs_count=3&layout=normal&theme=dark&hide_title=true)
+
+### GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=artikus11&show_icons=true&theme=dark&hide_title=true)
 
 <!--
 **0936566232/0936566232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
