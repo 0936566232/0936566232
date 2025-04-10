@@ -7,7 +7,7 @@
 
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0936566232&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0936566232&show_icons=true&hide=prs,issues,contribs&theme=transparent)
 <!--
 **0936566232/0936566232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
