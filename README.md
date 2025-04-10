@@ -3,14 +3,13 @@
 
 # Hello everyone guys 👋
 ## My name is Oleh. 
-### I have been doing web development for over 15 years. I am a Full Stack WordPress Developer. Figma to HTML. Figma to WordPress.
+#### I have been doing web development for over 15 years. I am a Full Stack WordPress Developer. Figma to HTML. Figma to WordPress.
 
-### My Tech Stack
+### My Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)  
 
@@ -25,6 +24,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
 
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma&logoColor=red)
 ![Phpstorm](https://img.shields.io/badge/-Phpstorm-333?style=for-the-badge&logo=Phpstorm&logoColor=red)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333?style=for-the-badge&logo=Webstorm&logoColor=red)
 
