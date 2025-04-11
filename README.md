@@ -36,9 +36,7 @@
 
 ### GitHub Stats:
 
-<img style="pointer-events: none;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_owner=false&show_icons=true&theme=transparent&hide_title=true" alt="stats"/>
-
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_owner=false&show_icons=true&theme=transparent&hide_title=true)
+<img src="./stats.svg"/>
 
 ### Contacts: 
 
