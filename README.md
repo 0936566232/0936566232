@@ -36,7 +36,7 @@
 
 ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_owner=false&show_icons=true&theme=transparent&hide_title=true)
 
 ### Contacts: 
 
