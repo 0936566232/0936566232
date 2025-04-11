@@ -33,7 +33,7 @@
 ### Most used languages:
 
 <div>
-<img src="./img/langs.svg"/>
+<img src="./img/langs.svg" role="presentation"/>
 </div>
 
 ### GitHub Stats:
