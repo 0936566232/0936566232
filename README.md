@@ -41,7 +41,7 @@
 <a href="" onclick="return false">
 <img src="./img/stats.svg"/>
 </a>
-
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Логотип GitHub" />
 ### Contacts: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/creofocus)
