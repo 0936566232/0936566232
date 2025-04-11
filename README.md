@@ -2,8 +2,10 @@
 
 
 # Hello everyone guys 👋
-## My name is Oleh. 
-#### I have been doing web development for over 15 years. I am a Full Stack WordPress Developer. Figma to HTML. Figma to WordPress.
+## My name is Oleh.
+### I am a Full Stack WordPress Developer: 
+- Figma to HTML. 
+- Figma to WordPress.
 
 ### My Tech Stack:
 
@@ -34,7 +36,7 @@
 
 ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=artikus11&show_icons=true&theme=transparent&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=mihdan&show_icons=true&theme=transparent&hide_title=true)
 
 ### Contacts: 
 
