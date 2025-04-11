@@ -32,16 +32,12 @@
 
 ### Most used languages:
 
-<div>
-<img src="./img/langs.svg" role="presentation"/>
-</div>
+<a href="" onclick="return false"><img src="./img/langs.svg" role="presentation"/></a>
 
 ### GitHub Stats:
 
-<a href="" onclick="return false">
-<img src="./img/stats.svg"/>
-</a>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Логотип GitHub" />
+<a href="" onclick="return false"><img src="./img/stats.svg"/></a>
+
 ### Contacts: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/creofocus)
