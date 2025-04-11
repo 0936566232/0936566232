@@ -36,7 +36,7 @@
 
 ### GitHub Stats:
 
-<img src="./stats.svg"/>
+<img src="./stats.svg" style="pointer-events: none"/>
 
 ### Contacts: 
 
