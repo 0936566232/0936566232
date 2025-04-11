@@ -32,9 +32,9 @@
 
 ### Most used languages:
 
-<a href="" onclick="return false">
+<div>
 <img src="./img/langs.svg"/>
-</a>
+</div>
 
 ### GitHub Stats:
 
