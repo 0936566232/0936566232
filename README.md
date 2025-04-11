@@ -32,11 +32,15 @@
 
 ### Most used languages:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artikus11&langs_count=3&layout=normal&theme=transparent&hide_title=true)
+<a href="" onclick="return false">
+<img src="./img/langs.svg"/>
+</a>
 
 ### GitHub Stats:
 
-<img src="./stats.svg" style="pointer-events: none"/>
+<a href="" onclick="return false">
+<img src="./img/stats.svg"/>
+</a>
 
 ### Contacts: 
 
